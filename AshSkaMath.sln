@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AshSkaMath", "AshSkaMath\AshSkaMath.csproj", "{F1C34F85-0494-4E69-8D18-45BCEAFBD6B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMath", "MyMath\MyMath.csproj", "{5257D23D-C974-48C7-A9F3-52EEFBD2C296}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C34F85-0494-4E69-8D18-45BCEAFBD6B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C34F85-0494-4E69-8D18-45BCEAFBD6B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C34F85-0494-4E69-8D18-45BCEAFBD6B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C34F85-0494-4E69-8D18-45BCEAFBD6B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5257D23D-C974-48C7-A9F3-52EEFBD2C296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5257D23D-C974-48C7-A9F3-52EEFBD2C296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5257D23D-C974-48C7-A9F3-52EEFBD2C296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5257D23D-C974-48C7-A9F3-52EEFBD2C296}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D789FC8-F401-46AC-98C8-BD4673875240}
+	EndGlobalSection
+EndGlobal
